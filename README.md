@@ -97,4 +97,4 @@ In this video, we demonstrate the main features and functionalities of the appli
 
 Feel free to watch the video and follow along with the explanations above to get a complete understanding of how the app handles various scenarios, including **online mode**, **offline fallback**, and **error recovery**.
 
-[![Watch the Video Demo](https://img.youtube.com/vi/7lM06mos3EM/0.jpg)](https://youtube.com/shorts/7lM06mos3EM?feature=share)
+[![Watch the Video Demo](https://img.youtube.com/vi/7lM06mos3EM/0.jpg)](https://www.youtube.com/shorts/COv_Lengc4c)
